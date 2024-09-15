@@ -1,6 +1,5 @@
 # PATCHED
 
----
 # Important!
 - Use this executor on alt account if don't want get ban.
 - This Executor maybe have virus because API is not by me.
